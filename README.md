@@ -25,3 +25,7 @@ Stock market data source : https://finance.yahoo.com/quote/MMM?p=MMM
 1.	Fetch stock market data for a single company using Ticker Symbol
 2.	Collect Ticker Symbols for all the List of S&P 500 companies from https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 3.	Fetch stock market data for all S&P 500 companies by varying the ticker symbol in the URL : https://finance.yahoo.com/quote/MMM?p=MMM
+
+
+### Output
+The final ouput will be exported into csv file : yahoo_finance_data.csv
